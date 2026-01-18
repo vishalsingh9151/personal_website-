@@ -63,6 +63,8 @@ https://vishalsingh9151.github.io/personal_website/
 ### Projects Page
 <img width="1460" height="794" alt="Screenshot 2026-01-18 at 11 54 43 PM" src="https://github.com/user-attachments/assets/056d5c78-55b5-4c55-94c9-7849c2ab02c1" />
 <img width="1448" height="805" alt="Screenshot 2026-01-18 at 11 54 56 PM" src="https://github.com/user-attachments/assets/8a4b5bc3-e36c-435f-8d65-48972f43d08a" />
+<img width="1461" height="779" alt="Screenshot 2026-01-18 at 10 23 13 PM" src="https://github.com/user-attachments/assets/9ddebb2f-78d2-4623-bdd8-14a453e5e36b" />
 <img width="1451" height="798" alt="Screenshot 2026-01-18 at 11 55 07 PM" src="https://github.com/user-attachments/assets/a933dc22-3dd1-4a51-9913-cebeea5dd990" />
 <img width="1451" height="800" alt="Screenshot 2026-01-18 at 11 55 36 PM" src="https://github.com/user-attachments/assets/14e31299-bb7c-471f-a978-f90b770bb83d" />
+
 
