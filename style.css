@@ -1,0 +1,132 @@
+/* General Styles */
+
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(to right, #ffecd2, #fcb69f);
+    margin: 0;
+    padding: 0;
+    color: #333;
+    scroll-behavior: smooth;
+}
+
+header {
+    text-align: center;
+    padding: 80px 20px;
+    background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+    border-radius: 0 0 50% 50%;
+    color: #fff;
+}
+
+header h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+.btn {
+    background-color: #4facfe;
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 30px;
+    transition: all 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #00f2fe;
+    transform: scale(1.1);
+}
+
+nav {
+    text-align: center;
+    margin: 30px 0;
+}
+
+nav ul {
+    list-style: none;
+    display: inline-flex;
+    gap: 30px;
+    padding: 0;
+}
+
+nav a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #333;
+    transition: 0.3s;
+}
+
+nav a:hover {
+    color: #4facfe;
+}
+
+/* Sections */
+section {
+    padding: 50px 20px;
+    background-color: rgba(255,255,255,0.8);
+    margin: 20px auto;
+    border-radius: 20px;
+    max-width: 1000px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #ff6f61;
+}
+
+/* Skills */
+.skill-container {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.skill {
+    padding: 15px 25px;
+    border-radius: 20px;
+    font-weight: bold;
+    color: #333;
+    transition: transform 0.3s;
+}
+
+.skill:hover {
+    transform: scale(1.2);
+}
+
+/* Projects */
+.project-list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.project {
+    background: linear-gradient(to right, #a1c4fd, #c2e9fb);
+    padding: 20px;
+    border-radius: 15px;
+    width: 250px;
+    cursor: pointer;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.project:hover {
+    transform: scale(1.1);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 0.9rem;
+    color: #555;
+}
